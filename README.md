@@ -55,7 +55,7 @@
 
 <h2> 🚀 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝙳 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 </h2>
 
-### GYMINI <br>
+### Training Recommendation System <br>
 A fitness plan organizer built with Python Tkinter.
 <br>
 ### DeliverEase: Food Delivery Management System <br>
