@@ -1,6 +1,7 @@
 <h1 align = "center"> ⋆. 𐙚˚࿔ Hi! 𝜗𝜚˚⋆ </h1>
 
 <div align="center">
+
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⡄⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠻⣷⠀⠀
@@ -13,6 +14,7 @@
 ⣇⠀⠀⠀⠈⣹⠶⠦⠤⠤⣤⣤⣤⡤⠤⠤⠴⠶⣏⠁⠀⠀⠀⣸⠁
 ⠈⠓⠲⠖⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⠲⠶⠚⠁⠀
 ```
+
 </div>
 
 ➤ Passionate about Continuous Learning & Turning Ideas into Projects (mostly none)🤙
