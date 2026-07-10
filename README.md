@@ -62,7 +62,7 @@ A fitness plan organizer built with Python Tkinter.
 Queue and stack implementation in C++.
 <br>
 ### Vote Smart: Making Informed Choices for a Better Nation <br>
-HTML/CSS project promoting righteus voting. <br>
+HTML/CSS project promoting righteous voting. <br>
 
 <h2> 📌 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙶𝙾𝙰𝙻𝚂 </h2>
 ⟡ Build more personal projects <br>
