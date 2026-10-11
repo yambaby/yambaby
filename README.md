@@ -53,17 +53,6 @@
 </tr>
 </table>
 
-<h2> 🚀 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝙳 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂 </h2>
-
-### Training Recommendation System <br>
-A fitness plan organizer built with Python Tkinter.
-<br>
-### DeliverEase: Food Delivery Management System <br>
-Queue and stack implementation in C++.
-<br>
-### Vote Smart: Making Informed Choices for a Better Nation <br>
-HTML/CSS project promoting righteous voting. <br>
-
 <h2> 📌 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙶𝙾𝙰𝙻𝚂 </h2>
 ⟡ Build more personal projects <br>
 ⟡ Strengthen Java and SQL skills <br>
