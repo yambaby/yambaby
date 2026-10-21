@@ -21,10 +21,6 @@
 ## 📖 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
 ⟡ BS Computer Science Student <br>
 ⟡ Batangas State University <br>
-⟡ Passionate about continuous learning & turning ideas into projects (mostly none)🤙 <br>
-⟡ Currently studying OOP & SQL <br>
-⟡ Always trying to be the best version of myself <br>
-
 
 <h2> 💻 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝙸𝙴𝚂 </h2>
 
